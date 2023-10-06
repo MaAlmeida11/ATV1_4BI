@@ -1,34 +1,42 @@
 .cnpjoto {
     border: 3px solid rgb(255, 0, 0);
-    width: ;
-    height: ;
-    margin: ;
-    padding: ;
+    width: 300px;
+    height: 30px;
+    margin: 30px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
-}
+
 
 .caga_tronco {
     border: 3px solid rgb(156, 7, 255);
-    width: ;
-    height: ;
-    margin: ;
-    padding: ;
+    width: 500px;
+    height: 40px;
+    margin: 30px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
-}
+
 
 .patricio_poeto {
     border: 3px solid rgb(3, 87, 243);
-    width: ;
-    height: ;
-    margin: ;
-    padding: ;
+    width: 700px;
+    height: 70px;
+    margin: 30px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
-}
+
 
 .shakiro {
     border: 3px solid rgb(3, 243, 23);
-    width: ;
-    height: ;
-    margin: ;
-    padding: ;
+    width: 900px;
+    height: 120px;
+    margin: 30px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
